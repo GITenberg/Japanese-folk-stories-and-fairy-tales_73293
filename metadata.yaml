@@ -1,5 +1,8 @@
 _repo: Japanese-folk-stories-and-fairy-tales_73293
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73293-h/images/cover_small.jpg
 creator:
   author:
     agent_name: Nixon-Roulet, Mary F.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3391'
     url: http://www.gutenberg.org/2009/agents/3391
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73293#Japanese-folk-stories-and-fairy-tales
 gutenberg_issued: '2024-03-30'
 gutenberg_type: Text
 identifiers:
